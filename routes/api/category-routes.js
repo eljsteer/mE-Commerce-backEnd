@@ -12,7 +12,7 @@ router.get('/', (req, res) => {
     });   
     
     if (!categoryData) {
-      res.status(500).json({ message: "No Category found with this id!"});
+      res.status(404).json({ message: "No Category found with this id!"});
       return;
     };
 
