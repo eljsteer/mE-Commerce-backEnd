@@ -87,6 +87,7 @@ router.put('/:id', (req, res) => {
     price: req.body.price,
     stock: req.body.stock,
     category_id: req.body.category_id,
+    tagIds: req.body.tagIds,
     where: {
       id: req.params.id,
     },
