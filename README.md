@@ -27,7 +27,7 @@
   * To test the routes, [Download and install Insomnia](https://insomnia.rest/download)
   * Setup test routes as per the walkthrough video
 
-  #### [Usage Walkthrough Video](https://drive.google.com/file/d/1z0tKl4ZSPdOAvZRhpgR6dT_brOgL--Md/view)
+  #### [Usage Walkthrough Video](https://drive.google.com/file/d/1Ce5Pyjkc2HSfKkjFJT2H2eLrBZyUbIKc/view)
   
   ## LICENSE
   Project developed 2022 by Jason Steer,<br />
